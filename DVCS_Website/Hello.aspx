@@ -17,6 +17,9 @@
             <li>Basketball</li>
             <li>Snowboarding</li>
             <li>Cars</li>
+
+            <h3>About me</h3>
+            <p>My name is John Michael Montalban and I'm currently taking DMIT and my program is Computer Software Development.</p>
         </div>
         
     </form>

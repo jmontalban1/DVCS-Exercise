@@ -12,6 +12,11 @@
                 <h2>Hello, My Name is John welcome to my website!</h2>       
             <h3>Date</h3>
             <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+
+            <h3>Hobbies</h3>
+            <li>Basketball</li>
+            <li>Snowboarding</li>
+            <li>Cars</li>
         </div>
         
     </form>

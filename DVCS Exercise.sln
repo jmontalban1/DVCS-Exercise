@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVCS Exercise", "DVCS Exercise\DVCS Exercise.csproj", "{AD22556D-3F22-4613-BE3F-822E05304CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVCS_Website", "DVCS_Website\DVCS_Website.csproj", "{07F97A32-3C24-4244-BBFB-FBC1B4E9C12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD22556D-3F22-4613-BE3F-822E05304CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD22556D-3F22-4613-BE3F-822E05304CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD22556D-3F22-4613-BE3F-822E05304CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD22556D-3F22-4613-BE3F-822E05304CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F97A32-3C24-4244-BBFB-FBC1B4E9C12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F97A32-3C24-4244-BBFB-FBC1B4E9C12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F97A32-3C24-4244-BBFB-FBC1B4E9C12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F97A32-3C24-4244-BBFB-FBC1B4E9C12A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C58183-1146-41CD-92C1-C0E94B6E6BBC}
+	EndGlobalSection
+EndGlobal

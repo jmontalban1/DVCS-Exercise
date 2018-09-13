@@ -9,9 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <p>
-                Hello, My Name is John welcome to my website!
-            </p>
+                <h2>Hello, My Name is John welcome to my website!</h2>        
         </div>
     </form>
 </body>

@@ -11,3 +11,20 @@ John Michael Montalban
 5. Change branch - C
 6. Current (selection of) repository - A
 
+# Short Answer and Multiple Choice
+1.Help Tab
+2.It's under File tab
+3.Repository tab
+4.Toggle Full Screen, Reset Zoom, Zoom in, and Zoom out
+5.Remote and Ignored Files
+6.3
+7.1
+8.3
+9.2
+10.1
+11.4
+12.1
+13.3
+14.2
+15.1
+16.3

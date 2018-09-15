@@ -12,7 +12,7 @@ John Michael Montalban
 6. Current (selection of) repository - A
 
 # Short Answer and Multiple Choice
-1.Help Tab
+1.Repositoy Tab
 2.It's under File tab
 3.Repository tab
 4.Toggle Full Screen, Reset Zoom, Zoom in, and Zoom out
@@ -23,8 +23,8 @@ John Michael Montalban
 9.2
 10.1
 11.4
-12.1
-13.3
+12.4
+13.2
 14.2
 15.1
 16.3

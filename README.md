@@ -15,7 +15,8 @@ John Michael Montalban
 1.Repositoy Tab
 2.It's under File tab
 3.Repository tab
-4.Toggle Full Screen, Reset Zoom, Zoom in, and Zoom out
+4.Screen View: Toggle Full Screen, Reset Zoom, Zoom in, and Zoom out 
+Change: Changes, History, Repository List, Branches List
 5.Remote and Ignored Files
 6.3
 7.1
